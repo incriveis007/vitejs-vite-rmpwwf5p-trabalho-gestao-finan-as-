@@ -1,0 +1,42 @@
+{
+  "name": "Gestão de Finanças",
+  "short_name": "Gestão Finanças",
+  "start_url": "/",
+  "display": "standolone",
+  "background_color": "#4655DB",
+  "theme_color": "#4655DB",
+  "orientation": "portrait_primary",
+  "icons": [
+    {
+      "src": "/imagens/icons-favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/imagens/icons-favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/imagens/icons-favicon.ico",
+      "type": "image/",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/imagens/icons-apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+  
+    {
+      "src": "/imagens/icons-android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/imagens/icons-android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

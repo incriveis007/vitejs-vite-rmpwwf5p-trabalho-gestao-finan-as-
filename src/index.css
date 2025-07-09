@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@tailwind base;
+@tailwind components;
+@tailwind utilites;
+
+th{
+  border: 1px;
+}
+td{
+  font-weight: bold;
+}
+body{
+  background-color: rgb(24, 120, 245);
+}
