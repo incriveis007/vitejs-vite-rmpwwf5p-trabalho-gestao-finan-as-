@@ -8,33 +8,33 @@
   "orientation": "portrait_primary",
   "icons": [
     {
-      "src": "/imagens/icons-favicon-16x16.png",
+      "src": "/imagens/favicon-16x16.png",
       "type": "image/png",
       "sizes": "16x16"
     },
     {
-      "src": "/imagens/icons-favicon-32x32.png",
+      "src": "/imagens/favicon-32x32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/imagens/icons-favicon.ico",
+      "src": "/imagens/favicon.ico",
       "type": "image/x-icon",
       "sizes": "48x48"
     },
     {
-      "src": "/imagens/icons-apple-touch-icon.png",
+      "src": "/imagens/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "180x180"
     },
   
     {
-      "src": "/imagens/icons-android-chrome-192x192.png",
+      "src": "/imagens/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/imagens/icons-android-chrome-512x512.png",
+      "src": "/imagens/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
