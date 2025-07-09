@@ -19,7 +19,7 @@
     },
     {
       "src": "/imagens/icons-favicon.ico",
-      "type": "image/",
+      "type": "image/x-icon",
       "sizes": "48x48"
     },
     {

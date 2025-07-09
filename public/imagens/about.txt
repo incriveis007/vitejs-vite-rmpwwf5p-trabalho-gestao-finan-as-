@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Mohave
-- Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/mohave/v12/7cH2v4ksjJunKqM_CdE36I75AIQkY7G8EbSaprDXrBlSVw.ttf
-- Font License: undefined)
